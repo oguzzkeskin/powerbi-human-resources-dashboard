@@ -1,4 +1,4 @@
-# POWERBI-HUMAN-RESOURCES-DASHBOARD
+# POWERBI HUMAN RESOURCES DASHBOARD
 This project was prepared using human resources data. Dashboard was created on Power BI application.
 Some photos from the project:
 ![ekran1](https://github.com/user-attachments/assets/6c0f6967-f5f7-420d-860c-f95ee523f78a)
